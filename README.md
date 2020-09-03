@@ -1,0 +1,2 @@
+# javascriptstrings
+Strings in JavaScript
